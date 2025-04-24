@@ -57,7 +57,7 @@ This dataset contains information about employees and includes details relevant 
 ## Tools Used 🛠️
 
 * Tableau Public: For data visualization and dashboard creation.
-* Google Colab: For data cleaning and preparation using Python and Pandas. [Data Cleaning Notebook](Data-cleaning-hr-dataset.ipynb)
+* Google Colab: For data cleaning and preparation using Python and Pandas. Here you can find my [Clean HR Dataset](Clean-HR-Dataset.ipynb)
 
 ## Potential Next Steps 🚀
 
