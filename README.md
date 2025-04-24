@@ -33,8 +33,6 @@ The analysis is presented in two Tableau Public dashboards:
 
 ## Key Findings 💡
 
-## Key Findings 💡
-
 This analysis of the HR dataset reveals several key insights into employee attrition, engagement, pay equity, recruitment effectiveness, and tenure. The detailed explanations for each finding can be found under the file "[ANSWERS.md](ANSWERS.md)" in this repository.
 
 * **Attrition Drivers:** The Production department shows the highest attrition rate (39.71%). Early-mid career employees (1-4 years tenure) are also at higher risk. Low engagement is strongly correlated with termination. Within Admin Offices, "Career Change" and "No-Call, No-Show" are the top reasons for leaving (11.11% each). Higher termination rates are observed for lower performers, but a notable percentage of "Fully Meets" (32.92%) and "Exceeds" (21.62%) employees also attrited.
