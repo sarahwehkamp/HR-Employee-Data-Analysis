@@ -33,15 +33,15 @@ The analysis is presented in two Tableau Public dashboards:
 
 ## Key Findings 💡
 
-The analysis revealed several key insights:
+## Key Findings 💡
 
-* **Attrition Drivers:** Certain departments (e.g., Production) showed higher attrition. Lower engagement correlated with termination, and lack of advancement was a key termination reason.
-* **Engagement & Performance:** A positive correlation was observed between engagement and performance.
-* **Pay Equity:** Potential pay disparities were identified based on gender and race.
-* **Recruitment Effectiveness:** Employee referrals and the company website showed the highest retention rates.
-* **Tenure Variation:** Average tenure varied significantly by department and role, suggesting potential areas for review.
+This analysis of the HR dataset reveals several key insights into employee attrition, engagement, pay equity, recruitment effectiveness, and tenure. The detailed explanations for each finding can be found under the file "[ANSWERS.md](ANSWERS.md)" in this repository.
 
-For a more detailed explanation of the findings for each key question, please see the [ANSWERS.md](ANSWERS.md) file.
+* **Attrition Drivers:** The Production department shows the highest attrition rate (39.71%). Early-mid career employees (1-4 years tenure) are also at higher risk. Low engagement is strongly correlated with termination. Within Admin Offices, "Career Change" and "No-Call, No-Show" are the top reasons for leaving (11.11% each). Higher termination rates are observed for lower performers, but a notable percentage of "Fully Meets" (32.92%) and "Exceeds" (21.62%) employees also attrited.
+* **Engagement & Performance:** Lower engagement scores are associated with terminated employees. Leveraging high engagement through recognition and targeted interventions for lower performers are recommended to potentially boost overall productivity.
+* **Pay Equity:** Potential gender pay gaps exist, with males averaging $62,313.80 and females $58,068.50. Significant pay differences are also observed across racial groups, with the largest gap being $26,997.62 between the lowest and highest average salaries by race and gender.
+* **Recruitment Effectiveness:** The company website (92.31%) and employee referrals (83.87%) yield the highest retention rates. Sources like CareerBuilder (52.17%) and Diversity Job Fairs (44.83%) show lower retention.
+* **Employee Tenure:** IT/IS roles have shorter average tenures (1.48-3.85 years), while the Executive Office shows longer tenures (exceeding 6.10 years). Production shows similar tenure for management and entry-level roles, and Sales tenure varies by role.
 
 ## How to View the Analysis 👀
 
