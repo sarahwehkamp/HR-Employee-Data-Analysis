@@ -31,6 +31,18 @@ The analysis is presented in two Tableau Public dashboards:
 * Includes visualizations on average salary by sex 🚺/🚹 and race 🌍, retention rate by recruitment source 💰, average tenure by department and role ⏳, and the relationship between engagement 😊 and performance ⭐.
 * Key findings reveal potential pay disparities, the most effective recruitment channels for long-term hires, tenure patterns across roles and departments, and the relationship between employee engagement and performance levels.
 
+## Key Findings 💡
+
+The analysis revealed several key insights:
+
+* **Attrition Drivers:** Certain departments (e.g., Production) showed higher attrition. Lower engagement correlated with termination, and lack of advancement was a key termination reason.
+* **Engagement & Performance:** A positive correlation was observed between engagement and performance.
+* **Pay Equity:** Potential pay disparities were identified based on gender and race.
+* **Recruitment Effectiveness:** Employee referrals and the company website showed the highest retention rates.
+* **Tenure Variation:** Average tenure varied significantly by department and role, suggesting potential areas for review.
+
+For a more detailed explanation of the findings for each key question, please see the [ANSWERS.md](ANSWERS.md) file.
+
 ## How to View the Analysis 👀
 
 **Tableau Public:** The interactive dashboards can be viewed directly on my [Tableau Public profile](https://public.tableau.com/views/HRDataAnalysis_17455181049470/EmployeeAttritionAnalysisDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
